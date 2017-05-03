@@ -44,3 +44,4 @@ function drawTree(treeHeight) {
     	console.log(space, star);
     }
 }
+drawTree(5);
